@@ -7,7 +7,6 @@ export default function Navbar(){
     <nav>
         <input type="checkbox" id="check" />
         <label for="check" class="checkbtn">
-          {/* <i class="fas fa-bars"></i> */}
           <i class="fa fa-bars"></i>
         </label>
 
